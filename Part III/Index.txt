@@ -1,0 +1,7 @@
+PART III Managing Change 491
+
+Chapter 12 Rationale Management 493
+Chapter 13 Configuration Management 537
+Chapter 14 Project Management 575
+Chapter 15 Software Life Cycle 621
+Chapter 16 Methodologies: Putting It All Together 651

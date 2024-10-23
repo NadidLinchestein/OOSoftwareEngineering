@@ -1,0 +1,16 @@
+Q)  Specify which of these decisions were made during requirements or system design:
+    
+    • “The TicketDistributor is composed of a user interface subsystem, a subsystem for computing tariff, 
+       and a network subsystem for managing communication with the central computer.”
+    • “The TicketDistributor hardware uses PowerPC processor chips.”
+    • “The TicketDistributor provides the traveler with online help.”
+
+
+A) “The TicketDistributor is composed of a user interface subsystem, a subsystem for computing tariff, and a network subsystem for managing communication with the central computer.”
+    System design decision: This describes how the system will be structured or designed, specifying the major components or subsystems.
+    
+    “The TicketDistributor hardware uses PowerPC processor chips.”
+    System design decision: This is a hardware design decision specifying the processor architecture to be used.
+    
+    “The TicketDistributor provides the traveler with online help.”
+    Requirements decision: This is part of the user requirements, describing a functional feature that the system must provide.

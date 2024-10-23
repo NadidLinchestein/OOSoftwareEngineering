@@ -1,0 +1,15 @@
+Q)  A programming language is a notation for representing algorithms and data structures.
+    
+    List two advantages and two disadvantages of using a programming language as the
+    sole notation throughout the development process.
+
+
+A)  Advantages of using a programming language as the sole notation throughout the development process:
+
+    Consistency: Using a single notation (programming language) ensures uniformity throughout the development cycle, reducing the chances of misinterpretation.
+    Direct implementation: Once a model is created in code, it can be executed, tested, and debugged in real-time, which speeds up the feedback loop.
+    
+    Disadvantages:
+
+    Complexity: High-level models or system designs may be more difficult to express in code, making it hard for non-programmers to understand or contribute to the development process.
+    Rigidity: Programming languages are less flexible for conceptual or exploratory stages of development, where rapid changes and adjustments are necessary without worrying about implementation specifics. 

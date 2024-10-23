@@ -1,0 +1,16 @@
+Q)  Hypothesize a rationale for the following design decisions:
+
+    • “The TicketDistributor will be at most one and a half meters tall.”
+    • “The TicketDistributor will include two redundant computer systems.”
+    • “The TicketDistributor interface will consist of a touch screen for displaying instructions and accessing commands and a single button for aborting transactions.”
+
+
+A)  “The TicketDistributor will be at most one and a half meters tall.”
+    Rationale: This height could be chosen for accessibility, ensuring that people of varying heights, including those in wheelchairs or children, can easily reach and use the machine.
+    
+    “The TicketDistributor will include two redundant computer systems.”
+    Rationale: Redundancy could be for reliability and fault tolerance. If one system fails, the second system can take over, ensuring continuous operation and minimizing downtime.
+    
+    “The TicketDistributor interface will consist of a touch screen for displaying instructions and accessing commands and a single button for aborting transactions.”
+    Rationale: The touch screen provides an intuitive and flexible interface for interacting with users, while the single button for aborting transactions adds simplicity for canceling without navigating through menus. 
+               This minimizes user confusion and reduces complexity.

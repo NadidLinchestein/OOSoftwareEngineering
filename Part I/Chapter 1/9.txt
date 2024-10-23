@@ -1,0 +1,8 @@
+Q)  What is the difference between a task and an activity?
+
+
+A)  Task: A task is a specific, measurable, and usually small unit of work with a defined goal or outcome. 
+    For example, "buying a ticket from the TicketDistributor" is a task.
+
+    Activity: An activity is a broader set of related tasks or actions that aim toward a larger goal.  It often includes multiple tasks. 
+    For example, "planning a trip using public transportation" might involve activities like purchasing a ticket, checking routes, and scheduling times.

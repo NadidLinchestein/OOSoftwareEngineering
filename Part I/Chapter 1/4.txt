@@ -1,0 +1,19 @@
+Q)  What is meant by “knowledge acquisition is not sequential”? 
+    
+    Provide a concrete example of knowledge acquisition that illustrates this.
+
+
+A)  This phrase means that learning doesn’t always happen in a linear, step-by-step manner. 
+    
+    Instead, it can happen through various pathways, where learning in one area can lead to insights in another, 
+    and learners can jump back and forth between different topics as their understanding deepens.
+
+
+    Concrete example: Consider learning to play a musical instrument. 
+    Initially, you might focus on learning basic chords (technical knowledge). 
+    
+    However, while practicing, you may also start to understand rhythm, song structure, and even some music theory (conceptual knowledge), 
+    all of which enhance your skill without following a strict sequence. 
+    
+    You might discover a chord progression that leads you to revisit previous lessons with a new perspective, 
+    showing how learning overlaps and revisits previous knowledge.

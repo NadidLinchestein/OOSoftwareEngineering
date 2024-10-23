@@ -1,0 +1,16 @@
+Q)  Consider a task you are not familiar with, such as designing a zero-emissions car. 
+    
+    How would you attack the problem?
+
+
+A) To tackle a problem like designing a zero-emissions car:
+
+    Research: Study existing electric and hydrogen-powered car designs, materials, and technologies used to reduce emissions.
+    
+    Consult experts: Talk to professionals in automotive engineering, energy systems, and environmental science to get their insights.
+    
+    Break the problem down: Divide the design process into smaller sub-tasks such as energy source, materials, aerodynamics, manufacturing, etc.
+    
+    Prototype and iterate: Start by designing small, modular components, and test them iteratively, gathering feedback at every stage.
+    
+    Collaborate: Work with a multi-disciplinary team to cover areas outside your expertise.

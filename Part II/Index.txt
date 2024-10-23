@@ -1,0 +1,10 @@
+PART II Dealing with Complexity 119
+
+Chapter 4 Requirements Elicitation 121
+Chapter 5 Analysis 173
+Chapter 6 System Design: Decomposing the System 223
+Chapter 7 System Design: Addressing Design Goals 259
+Chapter 8 Object Design: Reusing Pattern Solutions 307
+Chapter 9 Object Design: Specifying Interfaces 349
+Chapter 10 Mapping Models to Code 393
+Chapter 11 Testing 437

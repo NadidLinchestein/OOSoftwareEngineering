@@ -1,0 +1,8 @@
+Q) What is the purpose of modeling?
+
+A) Modeling refers to the process of creating abstract representations of a system or problem. 
+   Its purpose is to simplify complex systems for better understanding, analysis, and communication. 
+   It allows stakeholders to focus on key aspects without dealing with unnecessary details. 
+   
+   In software and engineering, models help in visualizing how components interact and 
+   can be used to predict behavior or performance before building a solution.

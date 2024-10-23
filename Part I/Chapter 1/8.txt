@@ -1,0 +1,17 @@
+Q)  In the following description, explain when the term account is used as an application
+    domain concept and when as a solution domain concept:
+    
+    “Assume you are developing an online system for managing bank accounts for mobile customers. 
+    A major design issue is how to provide access to the accounts when the customer cannot establish an online connection. 
+    One proposal is that accounts are made available on the mobile computer, even if the server is not up. 
+    In this case, the accounts show the amounts from the last connected session.”
+
+
+A)  Application domain concept: 
+    When “account” refers to the customer’s bank account, which holds financial information like balances and transactions, 
+    it is an application domain concept because it refers to the real-world problem the system is addressing.
+
+    Solution domain concept: 
+    When “account” refers to how data about the bank account is stored or managed within the system (e.g., the account object in the software), 
+    it is a solution domain concept, as it is a representation within the software solution.
+

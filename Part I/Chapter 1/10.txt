@@ -1,0 +1,35 @@
+Q)  A passenger aircraft is composed of several millions of parts and requires thousands of persons to assemble. 
+    
+    A four-lane highway bridge is another example of complexity.
+    
+    The first version of Word for Windows, a word processor released by Microsoft in 1989, 
+    required 55 person-years, resulted into 249,000 lines of source code, and was delivered 4 years late. 
+    
+    Aircraft and highway bridges are usually delivered on time and within budget, whereas software is often not. 
+    Discuss what are, in your opinion, the differences between developing an aircraft, a bridge, and
+    a word processor that would cause this situation.
+
+
+A)  Differences Between Developing an Aircraft, Bridge, and Word Processor:
+    
+    Predictability of physical systems: 
+    Aircraft and bridges are based on well-understood physical principles (like materials science and structural engineering). 
+    The scope of their design and construction can be clearly defined, and physical constraints provide predictable results, leading to better estimation of timelines and costs.
+
+    Flexibility in software: 
+    Software systems, like word processors, are more abstract and can be continuously extended and modified. 
+    There are fewer natural constraints, and the rapid pace of changing user requirements or new features can lead to scope creep, 
+    making it harder to stay on time and within budget.
+
+    Interdisciplinary complexity: 
+    Developing an aircraft or a bridge involves many disciplines (engineering, materials, etc.) but with well-established processes and standards. 
+    Software development, particularly for systems like word processors, often involves managing more abstract concepts like user interface design, algorithms, 
+    and data structures, which are harder to predict and standardize.
+
+    Testing and errors: 
+    In software, bugs or system failures can be harder to predict and often lead to significant revisions. 
+    In contrast, physical systems like aircraft and bridges undergo rigorous physical testing and inspections at every stage, reducing the likelihood of large errors emerging late in the process.
+
+    Technological advancement: 
+    Software development tools, languages, and paradigms are continuously evolving, which can lead to changes in the development process mid-project. 
+    The aircraft and bridge industries tend to use more stable, tested technologies, reducing disruptions during development.

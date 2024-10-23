@@ -1,0 +1,23 @@
+Q)  Specify which of these statements are functional requirements and which are nonfunctional requirements:
+    
+    • “The TicketDistributor must enable a traveler to buy weekly passes.”
+    • “The TicketDistributor must be written in Java.”
+    • “The TicketDistributor must be easy to use.”
+    • “The TicketDistributor must always be available.”
+    • “The TicketDistributor must provide a phone number to call when it fails.”
+
+
+A)  “The TicketDistributor must enable a traveler to buy weekly passes.”
+    Functional requirement: This defines a specific function or task that the system must perform.
+    
+    “The TicketDistributor must be written in Java.”
+    Nonfunctional requirement: This specifies a constraint related to the technology or implementation, not a user function.
+    
+    “The TicketDistributor must be easy to use.”
+    Nonfunctional requirement: This is a quality attribute related to usability but not a direct functional behavior.
+    
+    “The TicketDistributor must always be available.”
+    Nonfunctional requirement: This is related to system availability, a performance characteristic, not a functional behavior.
+    
+    “The TicketDistributor must provide a phone number to call when it fails.”
+    Functional requirement: This describes a specific function the system must provide to users when it fails.
