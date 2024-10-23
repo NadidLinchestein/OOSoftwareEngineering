@@ -1,0 +1,2 @@
+Object-oriented software development includes six development activities:
+requirements elicitation, analysis, system design, object design, implementation, and testing.
