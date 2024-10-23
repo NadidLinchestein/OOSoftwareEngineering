@@ -1,0 +1,9 @@
+ARENA is a multi-user, Web-based system for organizing and conducting tournaments.
+
+ARENA is game independent in the sense that organizers can adapt a new game to the ARENA game
+interface, upload it to the ARENA server, and immediately announce and conduct tournaments
+with players and spectators located anywhere on the Internet. Organizers can also define new
+tournament styles, describing how players are mapped to a set of matches and how to compute
+an overall ranking of players by adding up their victories and losses (hence, figuring out who
+won the tournament). To recoup their operational costs, organizers can also invite potential
+sponsors to display advertisement banners during games. 
