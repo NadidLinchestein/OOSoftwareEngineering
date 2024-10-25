@@ -12,3 +12,7 @@ They are used to identify objects in the application and implementation domains.
 • State machine diagrams represent the behavior of nontrivial objects.
 
 • Activity diagrams are flow diagrams used to represent the data flow or the control flow through a system.
+
+Stereotype - A stereotype is an extension mechanism that allows developers to classify model elements in UML.
+
+Constraint - A constraint is a rule that is attached to a UML model element restricting its semantics.
