@@ -1,0 +1,9 @@
+Q)  What is the difference between a scenario and a use case? 
+    When do you use each construct?
+
+
+A)  Scenario: A specific sequence of actions or instance of a use case, showing a particular path or outcome.
+    
+    Use Case: A generalized interaction pattern, representing all possible scenarios within a specific function. 
+    
+    Use cases are used for overall system design, while scenarios are for detailing specific interactions.

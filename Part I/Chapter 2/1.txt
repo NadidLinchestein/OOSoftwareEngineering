@@ -1,0 +1,8 @@
+Q)  Consider an ATM system. Identify at least three different actors that interact with this system.
+
+
+A)  Customer/User: Interacts to perform actions like withdrawing money, checking balance, etc.
+    
+    Bank System: Validates transactions, checks account balances, etc.
+    
+    Maintenance Personnel: Services and replenishes cash, fixes technical issues.

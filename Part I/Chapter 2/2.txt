@@ -1,0 +1,5 @@
+Q)  Can the system under consideration be represented as an actor? Justify your answer.
+
+
+A)  The system itself typically isn't represented as an actor because it’s the entity performing actions based on input from other actors. 
+    An actor in a system represents an external entity that interacts with the system, like a user or an external service.
