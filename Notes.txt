@@ -16,3 +16,15 @@ They are used to identify objects in the application and implementation domains.
 Stereotype - A stereotype is an extension mechanism that allows developers to classify model elements in UML.
 
 Constraint - A constraint is a rule that is attached to a UML model element restricting its semantics.
+
+Functional Model - Represented in UML with use case diagrams, describes the functionality of the system from the user’s point of view. 
+
+Object model - Represented in UML with class diagrams, describes the structure of the system in terms of objects, attributes, associations, and operations. 
+               During requirements and analysis, the object model starts as the analysis object model and describes the application concepts relevant to the system. 
+               During system design, the object model is refined into the system design object model and includes descriptions of the subsystem interfaces. 
+               During object design, the object model is refined into the object design model and includes detailed descriptions of solution objects. 
+
+Dynamic model - Rpresented in UML with interaction diagrams, state machine diagrams, and activity diagrams, describes the internal behavior of the system. 
+                Interaction diagrams describe behavior as a sequence of messages exchanged among a set of objects , whereas state machine diagrams describe behavior in terms of 
+                states of an individual object and the possible transitions between states. 
+                Activity diagrams describe behavior in terms control and data flows.

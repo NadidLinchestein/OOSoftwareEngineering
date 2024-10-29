@@ -14,3 +14,8 @@ A)  The use case diagram should include:
     Actors: Traveler and Central Computer System.
     Use Cases: BuyOneWayTicket, BuyWeeklyCard, BuyMonthlyCard, UpdateTariff.
     Exceptional Cases: TimeOut, TransactionAborted, DistributorOutOfChange, DistributorOutOfPaper.
+
+    Relationships
+    
+    Traveler: Interacts with BuyOneWayTicket, BuyWeeklyCard, BuyMonthlyCard, and exceptional cases.
+    Central Computer System: Associated with UpdateTariff.
